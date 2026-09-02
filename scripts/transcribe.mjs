@@ -1,10 +1,7 @@
-import {
-  installWhisperCpp,
-  downloadModel,
-  transcribe,
-  toTimeline,
-} from "@remotion/install-whisper-cpp";
+import whisperPkg from "@remotion/install-whisper-cpp";
 import { writeFileSync, readFileSync, existsSync } from "node:fs";
+
+const { installWhisperCpp, downloadModel, transcribe, toTimeline } = whisperPkg;
 
 const MODEL = "tiny.en";
 
