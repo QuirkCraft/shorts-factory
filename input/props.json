@@ -1,0 +1,26 @@
+{
+  "scenes": [
+    {
+      "src": "https://videos.pexels.com/video-files/34343459/14549435_720_1280_25fps.mp4",
+      "text": "What if I told you that the year isn't actually 2024, but 1727?",
+      "duration": 15
+    },
+    {
+      "src": "https://videos.pexels.com/video-files/8322047/8322047-hd_720_1366_25fps.mp4",
+      "text": "In the late twentieth century, historians claimed that Roman Emperor Otto the Third wanted to rule in the year one thousand.",
+      "duration": 15
+    },
+    {
+      "src": "https://videos.pexels.com/video-files/8028803/8028803-hd_720_1280_24fps.mp4",
+      "text": "He simply forged documents, altered calendar dates, and invented three hundred years of fake history, including Emperor Charlemagne.",
+      "duration": 15
+    },
+    {
+      "src": "https://videos.pexels.com/video-files/7424095/7424095-hd_720_1280_30fps.mp4",
+      "text": "Are we actually living in the eighteenth century right now?",
+      "duration": 15
+    }
+  ],
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/6OqjslDTvyYJFa7fVDHQ0?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiI2T3Fqc2xEVHZ5WUpGYTdmVkRIUTAiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4MzU5Mzg3LCJleHAiOjE3OTA5NTEzODcsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.FQ9hxDMvmGzF5rR8ZPvnUCubhsSylbRRcVe4Ty5vhok",
+  "captions": []
+}
