@@ -49,6 +49,6 @@ jobs:
         run: |
           git config user.name "shorts-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add out/video.mp4
+          git add -f out/video.mp4
           git commit -m "render ${{ github.sha }}" || echo "nothing to commit"
           git push

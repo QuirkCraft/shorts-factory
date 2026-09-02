@@ -11,7 +11,7 @@ let captions = [];
 
 try {
   console.log("Installing whisper.cpp...");
-  const { dir } = await installWhisperCpp({ to: "whisper", version: "latest" });
+  const { dir } = await installWhisperCpp({ to: "whisper", version: "v1.7.4" });
   const modelDir = "whisper/models";
   const modelFile = `${modelDir}/ggml-${MODEL}.bin`;
   if (!existsSync(modelFile)) {
