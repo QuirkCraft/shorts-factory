@@ -1,0 +1,5 @@
+node_modules
+whisper
+src-assets
+out
+render-props.json

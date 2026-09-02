@@ -1,0 +1,51 @@
+name: render
+
+on:
+  push:
+    branches: [main]
+    paths: ["input/props.json"]
+  workflow_dispatch:
+
+concurrency:
+  group: shorts-render
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Cache whisper model
+        uses: actions/cache@v4
+        with:
+          path: whisper/models
+          key: whisper-tiny.en
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Prepare assets
+        run: node scripts/prepare.mjs
+
+      - name: Transcribe captions
+        run: node scripts/transcribe.mjs
+
+      - name: Ensure browser
+        run: npx remotion browser ensure
+
+      - name: Render video
+        run: npx remotion render Shorts out/video.mp4 --props=render-props.json --concurrency=2
+
+      - name: Commit rendered video
+        run: |
+          git config user.name "shorts-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add out/video.mp4
+          git commit -m "render ${{ github.sha }}" || echo "nothing to commit"
+          git push
