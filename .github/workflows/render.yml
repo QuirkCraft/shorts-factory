@@ -44,6 +44,8 @@ jobs:
 
       - name: Render video
         run: npx remotion render Shorts out/video.mp4 --props=render-props.json --concurrency=2
+        env:
+          NODE_OPTIONS: --max-old-space-size=8192
 
       - name: Commit rendered video
         run: |
