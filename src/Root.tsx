@@ -24,14 +24,19 @@ export const RemotionRoot: React.FC = () => {
       fps={30}
       durationInFrames={1800}
       defaultProps={defaultProps}
-      calculateMetadata={({ props }) => ({
-        durationInFrames: Math.max(
-          30,
-          Math.ceil(
-            props.scenes.reduce((a, s) => a + (s.duration || 15), 0) * 30
-          )
-        ),
-      })}
+      calculateMetadata={({ props }) => {
+        const sceneTotal = props.scenes.reduce(
+          (a, s) => a + (s.duration || 15),
+          0
+        );
+        const duration =
+          props.audioSeconds && props.audioSeconds > 1
+            ? Math.min(sceneTotal, props.audioSeconds)
+            : sceneTotal;
+        return {
+          durationInFrames: Math.max(30, Math.floor(duration * 30)),
+        };
+      }}
     />
   );
 };

@@ -60,9 +60,9 @@ export const Short: React.FC<ShortProps> = ({
             textAlign: "center",
             fontFamily,
             fontWeight: 700,
-            fontSize: 96,
+            fontSize: 64,
             color: "#FFFFFF",
-            lineHeight: 1.15,
+            lineHeight: 1.2,
             textShadow:
               "3px 3px 0 #000, -3px 3px 0 #000, 3px -3px 0 #000, -3px -3px 0 #000, 0 0 24px rgba(0,0,0,0.9)",
           }}

@@ -71,23 +71,30 @@ try {
   if (captions.length === 0) throw new Error("Transcription produced no words");
 } catch (e) {
   console.error("Whisper transcription failed, falling back to timed script:", e.message);
-  // Fallback: distribute sentences evenly across total duration
-  const total = base.scenes.reduce((a, s) => a + (s.duration || 15), 0);
+  // Fallback: distribute sentences evenly across the narration duration
+  const total = base.audioSeconds || base.scenes.reduce((a, s) => a + (s.duration || 15), 0);
   const sentences = (base.scenes || []).map((s) => s.text || "").filter(Boolean);
   const per = total / Math.max(1, sentences.length);
   captions = sentences.map((text, i) => ({
     text,
     start: i * per,
-    end: (i + 1) * per - 0.05,
+    end: (i + 1) * per - 0.1,
   }));
 }
 
-writeFileSync(
-  "render-props.json",
-  JSON.stringify(
-    { scenes: base.scenes, audioUrl: base.audioUrl, captions },
-    null,
-    2
-  )
-);
+  // Clamp caption lines to the audio duration so nothing lingers past the narration
+  if (base.audioSeconds && base.audioSeconds > 0) {
+    captions = captions
+      .filter((c) => c.start < base.audioSeconds)
+      .map((c) => ({ ...c, end: Math.min(c.end, base.audioSeconds) }));
+  }
+
+  writeFileSync(
+    "render-props.json",
+    JSON.stringify(
+      { scenes: base.scenes, audioUrl: base.audioUrl, captions, audioSeconds: base.audioSeconds },
+      null,
+      2
+    )
+  );
 console.log("render-props.json written");
