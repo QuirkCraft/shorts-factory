@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/35450534/15019052_720_1280_30fps.mp4",
-      "text": "Imagine waking up in July, looking outside, and seeing a massive blizzard covering your street.",
+      "src": "https://videos.pexels.com/video-files/14240947/14240947-hd_720_1280_30fps.mp4",
+      "text": "Imagine you’re standing in a fifty-square-mile zone of Yellowstone National Park where the law technically doesn't exist.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/35450523/15019018_720_1280_30fps.mp4",
-      "text": "A colossal volcano erupted halfway across the world, blasting so much ash into the atmosphere that it blocked out the sun.",
+      "src": "https://videos.pexels.com/video-files/38548129/16373384_720_1280_30fps.mp4",
+      "text": "The Sixth Amendment guarantees you a trial by a jury from the state and district where the crime happened.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/31290322/13360250_720_1280_30fps.mp4",
-      "text": "To pass the time, they challenged each other to write the scariest story they could think of.",
+      "src": "https://videos.pexels.com/video-files/14883645/14883645-hd_720_1280_60fps.mp4",
+      "text": "Because nobody lives in this remote Idaho wilderness, a jury cannot be formed.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/14034812/14034812-hd_720_1280_24fps.mp4",
-      "text": "That gloomy, frozen summer is the exact reason Mary Shelley created Frankenstein.",
+      "src": "https://videos.pexels.com/video-files/32608305/13905573_720_1280_30fps.mp4",
+      "text": "Would you ever dare to camp here?",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/eu4bHg2ZG7wXrgRd0A9ci?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJldTRiSGcyWkc3d1hyZ1JkMEE5Y2kiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4NDI5Njc2LCJleHAiOjE3OTEwMjE2NzYsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.Qf6PgbKwTKBLTT6rc9xP4XB9GBO58ECReefPODA5kno",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/10vQmU2GZBPTJ9Wb112M6?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiIxMHZRbVUyR1pCUFRKOVdiMTEyTTYiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4NDMzMjgwLCJleHAiOjE3OTEwMjUyODAsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.Ltxpy6w6Rlj9MhLr2-CFKpBi99hCuwUv3NsbnClxUR0",
   "captions": []
 }
