@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/8830764/8830764-hd_720_1280_60fps.mp4",
-      "text": "You’ve probably looked at a map today, but you didn't realize it was lying to you on purpose.",
+      "src": "https://videos.pexels.com/video-files/10869006/10869006-hd_720_1280_30fps.mp4",
+      "text": "Imagine standing in the middle of a burning hot desert, looking out at a completely empty horizon for hundreds of miles.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/7431687/7431687-hd_720_1366_30fps.mp4",
-      "text": "Cartographers actually invent fake streets, towns, and even mountains, called 'trap streets.'",
+      "src": "https://videos.pexels.com/video-files/20065899/20065899-hd_720_1280_30fps.mp4",
+      "text": "There is absolutely nothing around you except for one single, lonely acacia tree.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/7432024/7432024-hd_720_1366_30fps.mp4",
-      "text": "Someone had actually built a real general store at those exact coordinates, naming it the Agloe General Store because they saw it on the first map.",
+      "src": "https://videos.pexels.com/video-files/37180549/15750391_720_1280_60fps.mp4",
+      "text": "But in 1973, a drunk truck driver managed to drive straight across the vast, empty desert and crash directly into this single tree.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/7431685/7431685-hd_720_1366_30fps.mp4",
-      "text": "Would you live in a town that shouldn't exist? Tell me below and follow for more!",
+      "src": "https://videos.pexels.com/video-files/32633111/13915672_720_1280_25fps.mp4",
+      "text": "How do you even manage to hit the only obstacle for hundreds of miles? Tell me what you think in the comments and follow for more.",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/ClPzjHgzxqlKyxhkNckA0?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJDbFB6akhnenhxbEt5eGhrTmNrQTAiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4NDQ0MDYwLCJleHAiOjE3OTEwMzYwNjAsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.so4qsQ4CC9GZ9K9Gk1aXd_oxBaSUOV4rjR_fAMakU8w",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/hWu6IE4bHJIkrcXixSDV8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJoV3U2SUU0YkhKSWtyY1hpeFNEVjgiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4NDQ3NjU2LCJleHAiOjE3OTEwMzk2NTYsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.9EZ4IudVw83tXAuiMCMwjHUmUcP7v70gF6iVXyceFRs",
   "captions": []
 }
