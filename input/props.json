@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/30728864/13145903_720_1280_30fps.mp4",
-      "text": "You are literally glowing in the dark right now, but nobody can see it.",
+      "src": "https://videos.pexels.com/video-files/34089513/14458542_720_1280_24fps.mp4",
+      "text": "Imagine lying on a freezing battlefield in 1862, wounded, waiting for help.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/19333380/19333380-hd_720_1280_30fps.mp4",
-      "text": "Your cells are constantly undergoing chemical reactions that release tiny packets of light called photons.",
+      "src": "https://videos.pexels.com/video-files/9467026/9467026-hd_720_1280_25fps.mp4",
+      "text": "As night falls, you look down and notice something terrifying: your open wounds are glowing with an eerie blue light.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/30728867/13145952_720_1280_30fps.mp4",
-      "text": "You are basically a walking, talking glow stick, but your own eyes are not sensitive enough to detect it.",
+      "src": "https://videos.pexels.com/video-files/18326200/18326200-hd_720_1280_30fps.mp4",
+      "text": "It turns out, the freezing mud was the perfect home for a rare, bioluminescent bacterium that produces a powerful natural antibiotic.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/36644498/15535636_720_1280_25fps.mp4",
-      "text": "The glow is strongest on your face, peaking in the late afternoon when your metabolism is most active.",
+      "src": "https://videos.pexels.com/video-files/30972661/13240152_720_1280_30fps.mp4",
+      "text": "Would you have panicked if your skin started glowing in the dark?",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/py9NAoah58upJbI7lWV9N?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJweTlOQW9haDU4dXBKYkk3bFdWOU4iLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4NjA2MDg5LCJleHAiOjE3OTExOTgwODksImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.2rxT5U_H-lDM83DuteiNrjfWBUwRCNlZ2lQM2uzWsbo",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/Ynu1fJxcCpVf4NXiz6Y2L?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJZbnUxZkp4Y0NwVmY0TlhpejZZMkwiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4NjA5NzQ2LCJleHAiOjE3OTEyMDE3NDYsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.XGCcVL_D9BybAgUFV6iBE2tP-DdbRzmQuRfR0c0lrws",
   "captions": []
 }
