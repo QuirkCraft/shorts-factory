@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/29037564/12553070_720_1280_30fps.mp4",
-      "text": "You are walking through a lush rainforest, and suddenly, a tree literally explodes next to you, launching shrapnel at highway speeds.",
+      "src": "https://videos.pexels.com/video-files/5856571/5856571-hd_720_1280_24fps.mp4",
+      "text": "Have you ever felt a sudden shiver, sensed a dark figure in the corner of your eye, and felt overwhelming dread out of nowhere?",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/16754842/16754842-hd_720_1280_30fps.mp4",
-      "text": "Growing eighty feet tall, this terrifying plant is covered in massive, razor-sharp thorns from top to bottom.",
+      "src": "https://videos.pexels.com/video-files/8458597/8458597-hd_720_1366_25fps.mp4",
+      "text": "You might think your house is haunted, but science says it's actually just a sound you can't even hear, called infrasound.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/28059468/12293374_720_1280_60fps.mp4",
-      "text": "When they ripen, they don't just fall, they burst open with a loud bang, firing seeds at one hundred fifty miles per hour.",
+      "src": "https://videos.pexels.com/video-files/8458585/8458585-hd_720_1366_25fps.mp4",
+      "text": "At nineteen hertz, these ultra-low waves match the natural resonant frequency of the human eyeball, vibrating your eyes to create ghostly peripheral illusions while triggering a massive panic response.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/29055964/12559597_720_1280_30fps.mp4",
-      "text": "Even worse, the tree drips toxic sap that causes severe skin blisters.",
+      "src": "https://videos.pexels.com/video-files/8458632/8458632-hd_720_1366_25fps.mp4",
+      "text": "Have you ever felt a presence in an empty room, or do you think ghosts might actually be real? Let me know in the comments below!",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/6xgD0bQun93sQeqUHeC9u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiI2eGdEMGJRdW45M3NRZXFVSGVDOXUiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4NjcwODYzLCJleHAiOjE3OTEyNjI4NjMsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.d009Ir2PS1UJ8iCN24-wJMuRD7RnHH5dn_h7qDv7TFY",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/ZJEY07D01Jy3SN5IBmfgg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJaSkVZMDdEMDFKeTNTTjVJQm1mZ2ciLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4Njc0NDUxLCJleHAiOjE3OTEyNjY0NTEsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.RQw5jUa3aVEdoNpZqAdUHnYjg7XGj8FxRBmEWCkg5FY",
   "captions": []
 }
