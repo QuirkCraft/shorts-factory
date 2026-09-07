@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/6091144/6091144-hd_720_1280_25fps.mp4",
-      "text": "Imagine standing in a room so quiet that you can hear your own blood pumping through your veins.",
+      "src": "https://videos.pexels.com/video-files/14240947/14240947-hd_720_1280_30fps.mp4",
+      "text": "Did you know there is a fifty-mile strip of land in the United States where you could theoretically commit a major crime and walk away completely free?",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/8518968/8518968-hd_720_1280_25fps.mp4",
-      "text": "This is the quietest place on Earth, a specialized chamber that absorbs ninety-nine point nine percent of all sound.",
+      "src": "https://videos.pexels.com/video-files/38548129/16373384_720_1280_30fps.mp4",
+      "text": "Because of a bizarre constitutional loophole, if you commit a crime here, the law requires a jury to be selected only from the state and district where it happened.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/18866692/18866692-hd_720_1280_30fps.mp4",
-      "text": "Without any external noise, your brain desperately starts searching for sound and actually begins to hallucinate.",
+      "src": "https://videos.pexels.com/video-files/14883645/14883645-hd_720_1280_60fps.mp4",
+      "text": "Since absolutely nobody lives in this Idaho sliver of the park, a jury of twelve people physically cannot be formed to prosecute you.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/6248839/6248839-hd_720_1280_30fps.mp4",
-      "text": "Most people can’t stand being inside for more than forty-five minutes before they start losing their grip on reality.",
+      "src": "https://videos.pexels.com/video-files/32608305/13905573_720_1280_30fps.mp4",
+      "text": "Do you think Congress should close this loophole immediately, or should they keep it? Tell me in the comments.",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/HXCA419hsCcERUSIxdkgu?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJIWENBNDE5aHNDY0VSVVNJeGRrZ3UiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4NzQyODg4LCJleHAiOjE3OTEzMzQ4ODgsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.5GjOXPWPYi_rqpSRLBQhhbTQ2x8HJEUzr5mTlyUR6jo",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/KrPSUSUrs83R6T4KXwijD?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJLclBTVVNVcnM4M1I2VDRLWHdpakQiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4NzQ2NDY2LCJleHAiOjE3OTEzMzg0NjYsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.xTSnrjPqK3Usbfw7MB7unAZqS49YdmwiFzPVC-Fp3pU",
   "captions": []
 }
