@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/32144167/13705292_720_1280_50fps.mp4",
-      "text": "Imagine walking into your bedroom in Victorian London, feeling completely safe, unaware that your beautiful green walls are slowly poisoning you.",
+      "src": "https://videos.pexels.com/video-files/13761237/13761237-hd_720_1280_60fps.mp4",
+      "text": "Have you ever noticed that every single banana you buy at the grocery store looks and tastes exactly the same?",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/34793717/14751765_720_1280_60fps.mp4",
-      "text": "The key ingredient making that brilliant green shine was arsenic.",
+      "src": "https://videos.pexels.com/video-files/8446800/8446800-hd_720_1280_24fps.mp4",
+      "text": "Seriously, every Cavendish banana in the world is a genetic copy of a single plant grown in a British greenhouse in the 1830s.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/9788795/9788795-hd_720_1366_25fps.mp4",
-      "text": "When these rooms got damp, a toxic fungus reacted with the wallpaper, releasing a lethal, odorless gas directly into the air.",
+      "src": "https://videos.pexels.com/video-files/36024510/15276968_720_1280_24fps.mp4",
+      "text": "Now, a new super-fungus called Tropical Race 4 is spreading across the globe, slowly killing off our current banana supply.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/6752228/6752228-hd_720_1366_25fps.mp4",
-      "text": "It took years for people to realize their trendy bedrooms were actually elegant death traps.",
+      "src": "https://videos.pexels.com/video-files/7250668/7250668-hd_720_1280_50fps.mp4",
+      "text": "Do you think we will find a way to save the banana, or should we start saying goodbye?",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/3VtjsTns4pPtPtSkNgC8k?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiIzVnRqc1RuczRwUHRQdFNrTmdDOGsiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4ODE0ODU5LCJleHAiOjE3OTE0MDY4NTksImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.saBXMKGewOxYNoVHB4wxqfUOjepoCVz6uRmW-uod5BA",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/9EbPrUDBOmBcYOQHeRhWb?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiI5RWJQclVEQk9tQmNZT1FIZVJoV2IiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg4ODE4NDUxLCJleHAiOjE3OTE0MTA0NTEsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.EhcT6Sqgn1JNJLuMN285KLCnyqaCRIXu79RC4oJ6_LI",
   "captions": []
 }
