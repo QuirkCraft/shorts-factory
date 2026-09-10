@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/3960172/3960172-hd_720_1366_50fps.mp4",
-      "text": "Did you know that the legendary Mona Lisa was actually a completely obscure painting until someone literally walked out of the Louvre museum with it tucked under their arm in 1911?",
+      "src": "https://videos.pexels.com/video-files/6134505/6134505-hd_720_1366_25fps.mp4",
+      "text": "Close your eyes and think of a red apple.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/3960170/3960170-hd_720_1366_50fps.mp4",
-      "text": "Before this mind-blowing heist, it wasn't even the most popular piece in its own gallery room, but when a rogue employee hid the masterpiece and escaped, the entire world went absolutely wild.",
+      "src": "https://videos.pexels.com/video-files/7132447/7132447-hd_720_1280_25fps.mp4",
+      "text": "If you heard a voice, you have an internal monologue, which feels completely normal.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/35968448/15249617_720_1280_30fps.mp4",
-      "text": "Suddenly, massive crowds of people were lining up for hours just to stare at the empty space on the wall where the artwork used to hang, turning it into an overnight media sensation.",
+      "src": "https://videos.pexels.com/video-files/8115554/8115554-hd_720_1366_24fps.mp4",
+      "text": "But here is the mind-blowing part: almost half of the population lives in complete, quiet silence.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/8738483/8738483-hd_720_1280_25fps.mp4",
-      "text": "By the time the painting was recovered two years later, this bizarre fame had cemented it as the most famous masterpiece in human history, so tell us if you would ever queue up to see a blank wall and follow for more!",
+      "src": "https://videos.pexels.com/video-files/8724210/8724210-hd_720_1366_25fps.mp4",
+      "text": "Does your brain actually have a voice inside it, or is it completely silent?",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/w7sbQXMXkjsxoTty7WYM4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJ3N3NiUVhNWGtqc3hvVHR5N1dZTTQiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MDQ4ODY0LCJleHAiOjE3OTE2NDA4NjQsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.G8rUF205XNF-IBWtd40jAYUuXD7avqC0jHaoyaEP0dI",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/E2UYTGC1UVGCvrVPH8x50?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJFMlVZVEdDMVVWR0N2clZQSDh4NTAiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MDU2MDY5LCJleHAiOjE3OTE2NDgwNjksImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.c02aTsxuZuhnVwt4WoQx5v6LYPIFGJYMd9RzbvbgSEs",
   "captions": []
 }
