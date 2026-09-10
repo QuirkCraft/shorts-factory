@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/34479399/14610726_720_1280_30fps.mp4",
-      "text": "Imagine driving through a quiet desert when suddenly, your radio goes completely silent, your compass spins out of control, and your phone dies.",
+      "src": "https://videos.pexels.com/video-files/12902301/12902301-hd_720_1280_30fps.mp4",
+      "text": "You probably picture the Sahara Desert as an endless, lifeless ocean of burning sand, but a sleeping green monster is waiting beneath.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/15291653/15291653-hd_720_1280_24fps.mp4",
-      "text": "You’ve just entered the Zone of Silence in Mexico, a bizarre patch of land where electromagnetic signals simply vanish into thin air.",
+      "src": "https://videos.pexels.com/video-files/32018898/13646754_720_1280_30fps.mp4",
+      "text": "Every twenty thousand years, the Earth wobbles slightly on its axis, changing how sunlight hits our planet and triggering massive monsoons.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/30141761/12925310_720_1280_30fps.mp4",
-      "text": "Meteorites are strangely attracted to this specific patch of dirt, striking it far more than any other place nearby.",
+      "src": "https://videos.pexels.com/video-files/34535421/14632483_720_1280_60fps.mp4",
+      "text": "This transforms the barren wasteland into a lush, tropical paradise filled with deep lakes, flowing rivers, and roaming wildlife.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/35078421/14859892_720_1280_30fps.mp4",
-      "text": "Would you dare to spend a night camping in this magnetic dead zone?",
+      "src": "https://videos.pexels.com/video-files/8865368/8865368-hd_720_1366_25fps.mp4",
+      "text": "Historically, humans hunted in this green Sahara, leaving behind rock art of hippos in places that are now bone-dry.",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/X2lYUAceVn3rYK6N4ut4E?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJYMmxZVUFjZVZuM3JZSzZONHV0NEUiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MDIzNjY2LCJleHAiOjE3OTE2MTU2NjYsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.EidIYcl-QWE0_gPR3HME8UhJ3GtmGFzJCrOFgiUHUlE",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/mXnxAsChBYn4DqbRLKjTO?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJtWG54QXNDaEJZbjREcWJSTEtqVE8iLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MDI3MjU4LCJleHAiOjE3OTE2MTkyNTgsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.Rr_9tI2gSEB3Fs36GoLFvnvRirtZzK_2SE4jS_1f6Rk",
   "captions": []
 }
