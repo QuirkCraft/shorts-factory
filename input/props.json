@@ -2,25 +2,25 @@
   "scenes": [
     {
       "src": "https://videos.pexels.com/video-files/6134505/6134505-hd_720_1366_25fps.mp4",
-      "text": "Close your eyes and think of a red apple.",
+      "text": "Close your eyes and say the word 'apple' inside your head.",
       "duration": 15
     },
     {
       "src": "https://videos.pexels.com/video-files/7132447/7132447-hd_720_1280_25fps.mp4",
-      "text": "If you heard a voice, you have an internal monologue, which feels completely normal.",
+      "text": "This is called anendophasia, a newly discovered condition where people literally do not have an inner monologue.",
       "duration": 15
     },
     {
       "src": "https://videos.pexels.com/video-files/8115554/8115554-hd_720_1366_24fps.mp4",
-      "text": "But here is the mind-blowing part: almost half of the population lives in complete, quiet silence.",
+      "text": "They don't hear a voice criticize them or remind them of chores.",
       "duration": 15
     },
     {
       "src": "https://videos.pexels.com/video-files/8724210/8724210-hd_720_1366_25fps.mp4",
-      "text": "Does your brain actually have a voice inside it, or is it completely silent?",
+      "text": "Do you actually hear a voice in your head right now, or is it just empty space?",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/E2UYTGC1UVGCvrVPH8x50?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJFMlVZVEdDMVVWR0N2clZQSDh4NTAiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MDU2MDY5LCJleHAiOjE3OTE2NDgwNjksImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.c02aTsxuZuhnVwt4WoQx5v6LYPIFGJYMd9RzbvbgSEs",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/Z7AHt4vBP3QDo6ECWfxL4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJaN0FIdDR2QlAzUURvNkVDV2Z4TDQiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MDU5NjczLCJleHAiOjE3OTE2NTE2NzMsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.cco7njuhDWTcdkddJjLVVZeyqIHNpSbPZdeREaXdOX8",
   "captions": []
 }
