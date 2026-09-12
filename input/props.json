@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/14240947/14240947-hd_720_1280_30fps.mp4",
-      "text": "Did you know there is a fifty-square-mile zone in Yellowstone National Park where you could theoretically get away with any crime without ever going to jail?",
-      "duration": 15
-    },
-    {
       "src": "https://videos.pexels.com/video-files/38548129/16373384_720_1280_30fps.mp4",
-      "text": "This crazy legal loophole exists because this specific strip of land sits in Idaho but remains under the federal jurisdiction of Wyoming, creating a bizarre constitutional overlap.",
+      "text": "Imagine standing in a beautiful, fifty-square-mile section of Yellowstone National Park where you could technically commit the ultimate crime and walk away completely free.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/14883645/14883645-hd_720_1280_60fps.mp4",
-      "text": "Under the Sixth Amendment, you have the right to a trial by a jury from the state and district where the crime happened, but since absolutely zero people live in this intersection, forming a jury is physically impossible.",
+      "src": "https://videos.pexels.com/video-files/38548372/16373590_720_1280_30fps.mp4",
+      "text": "This terrifying reality exists because the Sixth Amendment requires federal crimes to be tried by a jury living in both the state and the district where the crime occurred.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/32608305/13905573_720_1280_30fps.mp4",
-      "text": "Congress has known about this terrifying lawless zone for decades but has never fixed it, so tell me if you would ever dare to camp here and follow for more wild facts!",
+      "src": "https://videos.pexels.com/video-files/39109062/16639358_720_1280_60fps.mp4",
+      "text": "Since this specific sliver of the park sits in Idaho but the entire park is under Wyoming's judicial district, and because zero people live in this uninhabited strip, a legal jury cannot physically be formed.",
+      "duration": 15
+    },
+    {
+      "src": "https://videos.pexels.com/video-files/36901708/15631595_720_1280_60fps.mp4",
+      "text": "Congress has known about this loophole for decades but has never bothered to fix it, so would you ever dare to camp alone in this lawless zone, or are you staying far away?",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/8w8olc1Q6qwOSwYnizBWv?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiI4dzhvbGMxUTZxd09Td1luaXpCV3YiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MjA0MTM2LCJleHAiOjE3OTE3OTYxMzYsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.KtN_78FgFtUA_BVpWULApE71YIUheQMUz5ZQzZ6po7o",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/0uz6HmX6VADdvApAVit8w?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiIwdXo2SG1YNlZBRGR2QXBBVml0OHciLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MjA3MjUzLCJleHAiOjE3OTE3OTkyNTMsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.2kd9yduKm6z6sEoa61HWBmQT1KEaOmhEWH8H0vITdsI",
   "captions": []
 }
