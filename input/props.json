@@ -1,26 +1,26 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/37854033/16058374_720_1280_25fps.mp4",
-      "text": "Did you know the massive, barren Sahara Desert you see today was once a lush, green paradise filled with deep lakes, flowing rivers, and wild hippos?",
-      "duration": 15
-    },
-    {
-      "src": "https://videos.pexels.com/video-files/27998475/12284725_1080_1440_30fps.mp4",
-      "text": "It sounds completely unbelievable, but every twenty-one thousand years, Earth’s orbit undergoes a tiny wobble that shifts global monsoons, dragging torrential rains directly over these scorching sands and transforming the entire region into a vibrant grassland.",
+      "src": "https://videos.pexels.com/video-files/20554938/20554938-hd_720_1280_25fps.mp4",
+      "text": "Imagine being the only tree for over two hundred and fifty miles in every single direction, completely alone in the harsh Sahara desert.",
       "duration": 15
     },
     {
       "src": "https://videos.pexels.com/video-files/32018898/13646754_720_1280_30fps.mp4",
-      "text": "Archeologists have even found stunning ancient cave paintings hidden deep in the dunes depicting people swimming in deep waters that are now completely dry, proving this green oasis existed.",
+      "text": "This was the Tree of Ténéré, a miracle of survival that served as a vital landmark for travelers by rooting eighty feet below the sand.",
       "duration": 15
     },
     {
       "src": "https://videos.pexels.com/video-files/30783918/13167312_720_1280_30fps.mp4",
-      "text": "Scientists say this dramatic green cycle is scheduled to happen again, so would you live in a green Sahara, or do you prefer the empty dunes? Tell me what you think in the comments and follow for more!",
+      "text": "But in nineteen-seventy-three, a truck driver allegedly managed to drive across hundreds of miles of flat land and crash directly into it.",
+      "duration": 15
+    },
+    {
+      "src": "https://videos.pexels.com/video-files/12902301/12902301-hd_720_1280_30fps.mp4",
+      "text": "With the tree knocked down and gone forever, hit follow and tell me your thoughts on this bizarre tragedy below!",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/AzVynVanUQnfPukJyYSIW?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJBelZ5blZhblVRbmZQdWtKeVlTSVciLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MjIyNjExLCJleHAiOjE3OTE4MTQ2MTEsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.5p6fCOaD3bgPN15G7wcy2pOKsHGlaQ0RRD4Kc5NAYc0",
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/0ijfaUGuiFljw1Qm7SywA?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiIwaWpmYVVHdWlGbGp3MVFtN1N5d0EiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MjI1MjQ1LCJleHAiOjE3OTE4MTcyNDUsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.8pMp3GU6nMub9MlHwGLYL49YVVuLDvjf7is6NUd-bGo",
   "captions": []
 }
