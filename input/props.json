@@ -1,26 +1,38 @@
 {
   "scenes": [
     {
-      "src": "https://videos.pexels.com/video-files/6216451/6216451-hd_720_1280_24fps.mp4",
-      "text": "You’ve probably seen Swiss cheese in cartoons, completely covered in giant, perfect holes.",
+      "src": "https://videos.pexels.com/video-files/39387422/16768390_720_1280_60fps.mp4",
+      "text": "You probably think the Amazon rainforest has the richest, most fertile soil on Earth because it is packed with millions of massive trees, but the shocking truth is that rainforest soil is almost completely dead and nutrient-poor.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/15897585/15897585-hd_720_1280_25fps.mp4",
-      "text": "It turns out, the secret ingredient was actually tiny specks of hay dust falling into the milk buckets during traditional milking.",
+      "src": "https://videos.pexels.com/video-files/34459936/14601581_720_1280_30fps.mp4",
+      "text": "If you tried to grow normal vegetables there, they would instantly starve because the constant heavy tropical rain washes all the vital nutrients deep into the ground.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/6222168/6222168-hd_720_1280_24fps.mp4",
-      "text": "Without these microscopic specks to trap the gas, the bubbles can’t form, leaving us with boring, solid cheese.",
+      "src": "https://videos.pexels.com/video-files/35527402/15050726_720_1280_30fps.mp4",
+      "text": "The only reason this lush jungle survives is a super-fast recycling system where fungi and insects instantly devour falling leaves, feeding the trees directly.",
       "duration": 15
     },
     {
-      "src": "https://videos.pexels.com/video-files/6216449/6216449-hd_720_1280_24fps.mp4",
-      "text": "Would you eat cheese made with deliberate dust? Hit follow for more mind-blowing food secrets!",
+      "src": "https://videos.pexels.com/video-files/37218123/15766857_720_1280_30fps.mp4",
+      "text": "This means the entire forest is living on life support by recycling its own waste in real-time, so would you survive a week in this hyper-speed ecosystem? Follow for more insane nature secrets!",
       "duration": 15
     }
   ],
-  "audioUrl": "https://cloud.activepieces.com/api/v1/files/SmSxdKLHExg8Xt4dWaZTC?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJTbVN4ZEtMSEV4ZzhYdDRkV2FaVEMiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MzA0NDU2LCJleHAiOjE3OTE4OTY0NTYsImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.0X4ETfytO_KIaEyuQySzszlwrOlNggoRgSV-KofzWyE",
-  "captions": []
+  "audioUrl": "https://cloud.activepieces.com/api/v1/files/Cu9voVRr6FjpvZ1HYhKHp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJmaWxlSWQiOiJDdTl2b1ZScjZGanB2WjFIWWhLSHAiLCJmaWxlVHlwZSI6IkZMT1dfU1RFUF9GSUxFIiwiaWF0IjoxNzg5MzMzMjU5LCJleHAiOjE3OTE5MjUyNTksImF1ZCI6IkZJTEVfUkVBRCIsImlzcyI6ImFjdGl2ZXBpZWNlcyJ9.tAU9eo9bEEijxZ6rhibG-zD_jXicrSSu7d2CnaZB0EI",
+  "captions": [],
+  "meta": {
+    "title": "The mind-bending truth about rainforest soil #shorts",
+    "description": "You probably think the Amazon rainforest has the richest, most fertile soil on Earth because it is packed with millions of massive trees, but the shocking truth is that rainforest soil is almost completely dead and nutrient-poor. If you tried to grow normal vegetables there, they would instantly starve because the constant heavy tropical rain washes all the vital nutrients deep into the ground. The only reason this lush jungle survives is a super-fast recycling system where fungi and insects instantly devour falling leaves, feeding the trees directly. This means the entire forest is living on life support by recycling its own waste in real-time, so would you survive a week in this hyper-speed ecosystem? Follow for more insane nature secrets!\n\n#shorts #naturefacts #amazonrainforest #sciencecuriosities #mindblowing",
+    "tags": [
+      "shorts",
+      "naturefacts",
+      "amazonrainforest",
+      "sciencecuriosities",
+      "mindblowing"
+    ],
+    "privacyStatus": "private"
+  }
 }
