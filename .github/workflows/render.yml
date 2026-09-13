@@ -16,7 +16,7 @@ permissions:
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -53,4 +53,19 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add -f out/video.mp4
           git commit -m "render ${{ github.sha }}" || echo "nothing to commit"
+          git push
+
+      - name: Upload to YouTube
+        run: node scripts/upload.mjs
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+
+      - name: Commit status
+        run: |
+          git config user.name "shorts-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add input/status.json
+          git commit -m "publish status"
           git push
